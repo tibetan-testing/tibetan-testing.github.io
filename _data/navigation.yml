@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "ཚད་གཞི་རྩ་འཛིན།"
+  - title: "སྐད་ཡིག་གི་ཚད་གཞི།"
     url: /framework/
 
-  - title: "Talks"
+  - title: "རྒྱུག་ཤོག་འབྲི་ཚུལ།"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "བྱིས་སྒྲུང་གི་ཚད་གཞི།"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "བྱིས་སྒྲུང་འབྲི་ཚུལ།"
     url: /portfolio/
         
   - title: "Blog Posts"
