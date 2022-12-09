@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tibetan Testing"
+  name             : "སྐད་ཡིག་ཚད་གཞིའི་རྩ་འཛིན།"
   avatar           : "profile.png"
-  bio              : "Testing and Assessment for Tibetan as a Second Language"
+  bio              : "བོད་ཀྱི་སྐད་ཡིག་སློབ་གསོ་དང་རྒྱུག་ཤོག་ཚད་གཞི།"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  framework:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _framework
   - scope:
       path: ""
-      type: publications
+      type: framework
     values:
       layout: single
       author_profile: true
